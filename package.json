@@ -1,13 +1,18 @@
 {
   "name": "nestjs-ts-transform-paths",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
   "author": "Pong <samfunghp@gmail.com>",
   "repository": {
     "url": "https://github.com/Pong420/nestjs-ts-transform-paths"
   },
   "dependencies": {
-    "typescript": "^4.1.2",
-    "typescript-transform-paths": "^2.1.0"
+    "typescript-transform-paths": "^3.0.2"
+  },
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  },
+  "peerDependencies": {
+    "@nestjs/cli": ">=8.0.0"
   }
 }
