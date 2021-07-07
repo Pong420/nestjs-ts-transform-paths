@@ -1,5 +1,7 @@
 ## nestjs-ts-transform-paths
 
+:warning: only support `@nestjs/cli` version equal or upper than `8.0.0`
+
 `@nestjs/cli` plugin with [typescript-transform-paths](https://github.com/LeDDGroup/typescript-transform-paths#readme)
 
 ### The issue
